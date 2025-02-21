@@ -33,7 +33,7 @@ This dashboard can be used by:
 - **Finance teams** to assess profitability and revenue distribution.
 
 ## Dashboard Overview
-![Dashboard Screenshot](link-to-dashboard-image.png)
+![Dashboard Screenshot](Retail_Sales_Dashboard.png)
 
 ## How to Run This Project
 1. **Download the Dataset**  
