@@ -38,7 +38,7 @@ This dashboard can be used by:
 
 ## How to Run This Project
 1. **Download the Dataset**  
-   [RetailSalesData.csv](link-to-dataset)
+   [[RetailSalesData.csv](link-to-dataset)](https://github.com/Katrings/Retail_Sales_Analysis/blob/main/retail_sales_data.csv)
 2. **Open Power BI and load the dataset**  
 3. **Use the provided Power BI template to generate insights**  
 4. **Apply filters to explore specific sales trends**  
